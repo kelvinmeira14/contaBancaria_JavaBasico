@@ -5,7 +5,7 @@
 Esse é um pequeno projeto de uma conta bancária, onde, podemos depositar, sacar, transferir e checar valores na conta bancária.
 
 ## Layout 
-![Web_1](https://github.com/kelvinmeira14/banco_java_basico/blob/main/image.png)
+![Web_1](https://github.com/kelvinmeira14/contaBancaria_JavaBasico/blob/main/image.png)
 
 # Tecnologias utilizadas
 
